@@ -1,0 +1,4 @@
+body{background-color: bisque; display: block; padding: auto;}
+h1, h2{color:brown; font-family: Georgia, 'Times New Roman', Times, serif;}
+figcaption{font-style: italic; font-weight: bold;}
+img{display: block; height: auto; width: 200px;}
